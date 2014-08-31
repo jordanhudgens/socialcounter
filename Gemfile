@@ -35,3 +35,4 @@ end
 # Social
 gem 'twitter'
 gem 'twitter-text'
+gem 'instagram'

@@ -1,0 +1,2 @@
+To get the IG user ID:
+https://api.instagram.com/v1/users/search?q=tryskinnywraps&access_token=20271803.74e7be8.4dd832d88c4b41a38d0b569221707b23
