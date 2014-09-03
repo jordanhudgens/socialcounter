@@ -4,7 +4,7 @@ class HomeController < ApplicationController
 
     returned_hash = {instagram: instagram }
 
-    render text: "var social_counts = #{returned_hash.to_json};"
+    render js: "var social_counts = #{returned_hash.to_json};"
 
   end
 end
